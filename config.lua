@@ -2,8 +2,8 @@ Config = {}
 
 Config.Drugs = { 
 
-    ["marihuana"] = {
-        label = "Sell a Example drug",
+    ["example_drug"] = {
+        label = "Sell a Example Drug",
         icon = "fa-solid fa-cannabis",
         price = { min = 20, max = 70}, -- Sale price
         quantity  = { min = 3, max = 8}, -- possible number of sales at once
